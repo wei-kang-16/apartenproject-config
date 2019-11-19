@@ -11,7 +11,7 @@ spring:
       ddl-auto: update
     show-sql: true
   application:
-    name: UserProvdier01
+    name: UserProvdier
 server:
   port: 9001
 
